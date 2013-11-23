@@ -1,0 +1,21 @@
+{
+    "name": "corneltek\/lightlogger",
+    "homepage": "http:\/\/github.com\/c9s\/LightLogger",
+    "description": "lightweight logger for PHP",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "corneltek\/phpunit-testmore": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yo-An Lin",
+            "email": "cornelius.howl@gmail.com",
+            "homepage": "http:\/\/c9s.me"
+        }
+    ],
+    "autoload": { "psr-0": { "LightLogger": "src" } },
+    "version": "1.0"
+}
