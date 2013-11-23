@@ -1,5 +1,5 @@
 <?php
-namespace QuickLogger;
+namespace LightLogger;
 
 interface Loggable {
     public function info($msg);

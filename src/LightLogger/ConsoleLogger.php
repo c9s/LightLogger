@@ -1,5 +1,5 @@
 <?php
-namespace QuickLogger;
+namespace LightLogger;
 
 class ConsoleLogger implements Loggable
 {

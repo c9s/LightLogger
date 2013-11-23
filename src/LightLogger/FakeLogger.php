@@ -1,5 +1,5 @@
 <?php
-namespace QuickLogger;
+namespace LightLogger;
 
 /**
  * FakeLogger provides fake logger interface. it does not do anything.
