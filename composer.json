@@ -1,6 +1,6 @@
 {
-    "name": "corneltek\/lightlogger",
-    "homepage": "http:\/\/github.com\/c9s\/LightLogger",
+    "name": "corneltek/lightlogger",
+    "homepage": "http://github.com/c9s/LightLogger",
     "description": "lightweight logger for PHP",
     "require": {
         "php": ">=5.3.0"
