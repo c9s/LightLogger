@@ -16,6 +16,10 @@
             "homepage": "http:\/\/c9s.me"
         }
     ],
-    "autoload": { "psr-0": { "LightLogger": "src" } },
-    "version": "1.0"
+    "autoload": {
+        "psr-0": {
+            "LightLogger": "src"
+        }
+    },
+    "version": "1.0.1"
 }
