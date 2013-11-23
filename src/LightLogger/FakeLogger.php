@@ -11,5 +11,6 @@ class FakeLogger implements Loggable
     public function error($msg) { }
     public function debug($msg) { }
     public function fatal($msg) { }
+    public function notice($msg) {  }
 }
 
