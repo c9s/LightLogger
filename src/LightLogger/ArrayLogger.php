@@ -25,9 +25,14 @@ class ArrayLogger implements Loggable
         $this->push($msg, "fatal");
     }
 
+    public function notice($msg) {
+        $this->push($msg, "notice");
+    }
+
     public function push($msg, $level) { 
         $this->messages[] = array( $level, $msg , time() );
     }
+
 
     public function dump() {
         return $this->messages;
